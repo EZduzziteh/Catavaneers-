@@ -5,6 +5,8 @@
 #include "Components/InputComponent.h"
 #include "Camera/CameraComponent.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Engine/World.h"
+#include "Player_Weapon.h"
 
 // Sets default values
 Aplayer_movement::Aplayer_movement()
@@ -22,7 +24,11 @@ Aplayer_movement::Aplayer_movement()
 void Aplayer_movement::BeginPlay()
 {
 	Super::BeginPlay();
-	
+	currentWeapon = GetWorld()->SpawnActor<APlayer_Weapon>(weaponType);
+	currentWeapon->AttachToComponent(Cast<USceneComponent>(GetMesh()),
+		FAttachmentTransformRules::SnapToTargetIncludingScale,
+		"WeaponSocket");
+	currentWeapon->SetOwner(this);
 }
 
 void Aplayer_movement::Tick(float DeltaTime)

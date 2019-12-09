@@ -7,7 +7,7 @@
 #include "player_movement.generated.h"
 class UCameraComponent;
 class USpringArmComponent;
-class ATPSWeapon;
+class APlayer_Weapon;
 
 UCLASS()
 class CATAVANEER_2020_API Aplayer_movement : public ACharacter
@@ -25,6 +25,11 @@ public:
 		UCameraComponent* cameraComp;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Custom Components")
 		USpringArmComponent* springComp;
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Weapon Properties")
+		TSubclassOf<APlayer_Weapon> weaponType;
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Weapon Properties")
+		APlayer_Weapon* currentWeapon;
 
 protected:
 	// Called when the game starts or when spawned
