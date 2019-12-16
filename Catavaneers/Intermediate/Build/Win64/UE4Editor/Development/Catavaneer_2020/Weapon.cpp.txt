@@ -1,0 +1,2 @@
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\Definitions.Catavaneer_2020.h
+e:\github\catavaneers-\catavaneers\source\catavaneer_2020\Weapon.h

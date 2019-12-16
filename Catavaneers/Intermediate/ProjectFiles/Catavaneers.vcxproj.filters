@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Catavaneers.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7C89B5D9-68BB-4C30-8B49-9EAE96F80D88}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Catavaneer_2020.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Catavaneer_2020Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B8A36CAD-F201-45E8-B0D2-3D1E22E7B6ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\Android">
+      <UniqueIdentifier>{B5437772-A4F0-47B7-AB82-ADDDEC55C493}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Android\AndroidEngine.ini">
+      <Filter>Config\Android</Filter>
+    </None>
+    <Filter Include="Config\IOS">
+      <UniqueIdentifier>{A433FC0F-F4A7-46A3-B5D3-92A2F2886DF5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\IOS\IOSEngine.ini">
+      <Filter>Config\IOS</Filter>
+    </None>
+    <Filter Include="Config\Linux">
+      <UniqueIdentifier>{24CBB25E-F86E-4F2E-8B4D-67E9FD6AF8D9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Linux\LinuxEngine.ini">
+      <Filter>Config\Linux</Filter>
+    </None>
+    <Filter Include="Config\Mac">
+      <UniqueIdentifier>{13520DE0-2A3A-4699-A3D0-692A98F537E0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Mac\MacEngine.ini">
+      <Filter>Config\Mac</Filter>
+    </None>
+    <Filter Include="Config\PS4">
+      <UniqueIdentifier>{673FDB39-54DE-4E05-BB4B-A79249FA59FA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\PS4\PS4Engine.ini">
+      <Filter>Config\PS4</Filter>
+    </None>
+    <Filter Include="Config\Switch">
+      <UniqueIdentifier>{78A842AD-8B65-47E0-87F2-9EBE75F8E5FB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Switch\SwitchEngine.ini">
+      <Filter>Config\Switch</Filter>
+    </None>
+    <Filter Include="Config\Windows">
+      <UniqueIdentifier>{5165CDC9-A11F-4543-AF93-E6C73D63432D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\Windows\WindowsEngine.ini">
+      <Filter>Config\Windows</Filter>
+    </None>
+    <Filter Include="Config\XboxOne">
+      <UniqueIdentifier>{DCC0ECB2-427F-4FD5-B4C1-CC9DFBAFFF6D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
+      <Filter>Config\XboxOne</Filter>
+    </None>
+    <Filter Include="Source\Catavaneer_2020">
+      <UniqueIdentifier>{014FE9C2-DDF2-4C2E-AD5C-DC1673D4DF14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Caravan.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Caravan.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Caravan_inventory.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Caravan_inventory.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Catavaneer_2020\Catavaneer_2020.Build.cs">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Catavaneer_2020.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Catavaneer_2020.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Catavaneer_2020GameModeBase.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Catavaneer_2020GameModeBase.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\C_Caravan.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\C_Caravan.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Player_interaction.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Player_interaction.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Player_inventory.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Player_inventory.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Player_inventory01.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Player_inventory01.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\player_movement.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\player_movement.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Catavaneer_2020\Player_Weapon.cpp">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Catavaneer_2020\Player_Weapon.h">
+      <Filter>Source\Catavaneer_2020</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

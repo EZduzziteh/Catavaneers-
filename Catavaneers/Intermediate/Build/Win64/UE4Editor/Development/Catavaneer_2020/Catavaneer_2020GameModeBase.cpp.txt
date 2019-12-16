@@ -1,0 +1,7 @@
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\Definitions.Catavaneer_2020.h
+e:\github\catavaneers-\catavaneers\source\catavaneer_2020\Catavaneer_2020GameModeBase.h
+E:\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\UE\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\UE\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Inc\Catavaneer_2020\Catavaneer_2020GameModeBase.generated.h

@@ -1,0 +1,903 @@
+﻿Log file open, 12/09/19 14:25:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Catavaneers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.195086
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: E:/UE/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:960][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-19.25.02:960][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-19.25.02:961][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:961][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-19.25.02:965][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-19.25.02:966][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-19.25.02:966][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-19.25.02:966][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-19.25.02:969][  0]LogHAL: Display: Platform has ~ 16 GB [17013784576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-19.25.02:969][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-19.25.02:969][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:969][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-19.25.02:969][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-19.25.02:969][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:969][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-19.25.02:969][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:969][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-19.25.02:970][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-19.25.02:971][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-19.25.02:971][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-19.25.02:971][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/GitHub/Catavaneers-/Catavaneers/Saved/Config/Windows/Engine.ini]
+[2019.12.09-19.25.02:971][  0]LogInit: Computer: MSI
+[2019.12.09-19.25.02:971][  0]LogInit: User: d
+[2019.12.09-19.25.02:971][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.09-19.25.02:971][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-19.25.02:971][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.12.09-19.25.02:971][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-19.25.02:971][  0]LogMemory: Process Physical Memory: 103.61 MB used, 103.61 MB peak
+[2019.12.09-19.25.02:971][  0]LogMemory: Process Virtual Memory: 101.60 MB used, 101.60 MB peak
+[2019.12.09-19.25.02:971][  0]LogMemory: Physical Memory: 6012.93 MB used,  10212.68 MB free, 16225.61 MB total
+[2019.12.09-19.25.02:971][  0]LogMemory: Virtual Memory: 4706.70 MB used,  134213024.00 MB free, 134217728.00 MB total
+[2019.12.09-19.25.03:219][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.09-19.25.03:271][  0]LogInit: Using OS detected language (en-US).
+[2019.12.09-19.25.03:271][  0]LogInit: Using OS detected locale (en-CA).
+[2019.12.09-19.25.03:273][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.12.09-19.25.03:574][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-19.25.03:619][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-19.25.03:619][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-19.25.04:049][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-19.25.04:049][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-19.25.04:153][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2019.12.09-19.25.04:153][  0]LogD3D11RHI:       8031/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.09-19.25.04:203][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.09-19.25.04:203][  0]LogD3D11RHI:       128/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.09-19.25.04:206][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-19.25.04:206][  0]LogD3D11RHI:       0/0/8112 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-19.25.04:206][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-19.25.04:232][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-19.25.04:232][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-19.25.04:232][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-19.25.04:233][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.09-19.25.04:233][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-19.25.04:234][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.09-19.25.04:234][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.12.09-19.25.04:235][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.12.09-19.25.04:235][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.12.09-19.25.04:236][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2019.12.09-19.25.04:236][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.12.09-19.25.04:236][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2019.12.09-19.25.04:236][  0]LogD3D11RHI:   Driver Version: 440.97 (internal:26.21.14.4097, unified:440.97)
+[2019.12.09-19.25.04:236][  0]LogD3D11RHI:      Driver Date: 10-16-2019
+[2019.12.09-19.25.04:236][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2019.12.09-19.25.04:288][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-19.25.04:304][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.09-19.25.04:665][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-19.25.04:672][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-19.25.04:680][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-19.25.04:687][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-19.25.04:696][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-19.25.04:704][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-19.25.04:712][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-19.25.04:720][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-19.25.04:723][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-19.25.04:751][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-19.25.04:754][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-19.25.04:770][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-19.25.04:770][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-19.25.04:782][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-19.25.04:782][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-19.25.04:788][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-19.25.04:795][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-19.25.04:802][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-19.25.04:809][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-19.25.04:830][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-19.25.04:830][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-19.25.04:830][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-19.25.04:840][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-19.25.04:889][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../GitHub/Catavaneers-/Catavaneers/Intermediate/Shaders/WorkingDirectory/19264/).
+[2019.12.09-19.25.04:889][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/d/AppData/Local/Temp/UnrealShaderWorkingDir/D0331AA647AE17DF567328BBA1D81453/'.
+[2019.12.09-19.25.04:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-19.25.04:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-19.25.04:891][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-19.25.05:535][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/d/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/d/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GitHub/Catavaneers-/Catavaneers/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GitHub/Catavaneers-/Catavaneers/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-19.25.05:599][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-19.25.05:615][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-19.25.05:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-19.25.05:615][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.09-19.25.05:616][  0]LogDerivedDataCache: Using Local data cache path C:/Users/d/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-19.25.05:616][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-19.25.05:616][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-19.25.05:634][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-19.25.05:636][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-19.25.05:637][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-19.25.05:777][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.12.09-19.25.06:002][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-19.25.06:138][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-19.25.06:138][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-19.25.06:138][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-19.25.06:138][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-19.25.06:138][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-19.25.06:146][  0]LogNetVersion: Catavaneers 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1438930843)
+[2019.12.09-19.25.06:491][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.034511 seconds
+[2019.12.09-19.25.06:496][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.09-19.25.06:497][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.09-19.25.06:497][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-19.25.08:179][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-19.25.08:183][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-19.25.08:257][  0]SourceControl: Source control is disabled
+[2019.12.09-19.25.08:258][  0]SourceControl: Source control is disabled
+[2019.12.09-19.25.08:260][  0]SourceControl: Source control is disabled
+[2019.12.09-19.25.08:263][  0]SourceControl: Source control is disabled
+[2019.12.09-19.25.08:419][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-19.25.08:878][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-19.25.08:886][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.09-19.25.08:886][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.09-19.25.08:948][  0]LogEngine: Initializing Engine...
+[2019.12.09-19.25.08:949][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-19.25.08:950][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-19.25.09:135][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-19.25.09:152][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-19.25.09:190][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.25.09:384][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-19.25.09:384][  0]LogNetVersion: Set ProjectVersion to 0.0.1. Version Checksum will be recalculated on next use.
+[2019.12.09-19.25.09:427][  0]LogDerivedDataCache: Saved boot cache 0.04s 73MB C:/Users/d/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-19.25.09:430][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-19.25.09:453][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-19.25.09:453][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.09-19.25.09:454][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.09-19.25.09:492][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-19.25.09:530][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-19.25.09:601][  0]LocalizationService: Localization service is disabled
+[2019.12.09-19.25.09:646][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.12.09-19.25.09:646][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2019.12.09-19.25.09:646][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2019.12.09-19.25.09:809][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-19.25.09:809][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-19.25.09:955][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Catavaneers-/Catavaneers/Content/' took 0.02s
+[2019.12.09-19.25.10:004][  0]SourceControl: Source control is disabled
+[2019.12.09-19.25.10:004][  0]Cmd: MAP LOAD FILE="../../../../../GitHub/Catavaneers-/Catavaneers/Content/0_Maps/Menus/0_Menu_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.25.10:005][  0]LightingResults: New page: Lighting Build
+[2019.12.09-19.25.10:007][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.25.10:007][  0]MapCheck: New page: Map Check
+[2019.12.09-19.25.10:007][  0]LightingResults: New page: Lighting Build
+[2019.12.09-19.25.10:034][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.09-19.25.10:327][  0]LogAIModule: Creating AISystem for world 0_Menu_Main
+[2019.12.09-19.25.10:346][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.25.10:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.12.09-19.25.10:376][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.25.10:376][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.12.09-19.25.10:376][  0]LogFileHelpers: Loading map '0_Menu_Main' took 0.371
+[2019.12.09-19.25.10:573][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.25.10:581][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.25.10:586][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.25.10:592][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.25.10:609][  0]LogCollectionManager: Loaded 0 collections in 0.000894 seconds
+[2019.12.09-19.25.10:639][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Catavaneers-/Catavaneers/Saved/Collections/' took 0.00s
+[2019.12.09-19.25.10:639][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Catavaneers-/Catavaneers/Content/Developers/d/Collections/' took 0.00s
+[2019.12.09-19.25.10:639][  0]LogFileCache: Scanning file cache for directory 'E:/GitHub/Catavaneers-/Catavaneers/Content/Collections/' took 0.00s
+[2019.12.09-19.25.10:639][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.09-19.25.10:650][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2872 classes and 682 folders.
+[2019.12.09-19.25.10:665][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.25.10:797][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.25.10:810][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.09-19.25.11:996][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.09-19.25.12:092][  0]LogSlate: Took 0.001651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-19.25.12:095][  0]LogSlate: Took 0.000963 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-19.25.12:106][  0]LogSlate: Took 0.000749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-19.25.12:212][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-19.25.12:365][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.09-19.25.12:366][  0]LogLoad: (Engine Initialization) Total time: 11.84 seconds
+[2019.12.09-19.25.12:366][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-19.25.12:481][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-19.25.12:624][  2]LogSlate: Took 0.000798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-19.25.12:642][  3]LogAssetRegistry: Asset discovery search completed in 6.8655 seconds
+[2019.12.09-19.25.12:645][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.09-19.25.12:645][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.12.09-19.25.15:723][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.25.32:207][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.25.58:699][731]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-19.25.58:712][731]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1_BluePrints/Player/BP_Player_Cat.BP_Player_Cat
+[2019.12.09-19.25.58:997][731]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.09-19.25.59:851][731]LogSlate: Took 0.000811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.09-19.26.00:144][732]LogSlate: Took 0.000993 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.09-19.26.06:734][ 71]LogSlate: Window 'BP_Player_Cat' being destroyed
+[2019.12.09-19.26.19:609][839]LogAssetEditorManager: Opening Asset editor for Class /Script/Catavaneer_2020.player_movement
+[2019.12.09-19.26.50:793][181]LogAssetEditorManager: Opening Asset editor for Class /Script/Catavaneer_2020.player_movement
+[2019.12.09-19.26.57:675][470]LogRenderer: Reallocating scene render targets to support 1324x708 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-19.30.56:377][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.30.57:771][169]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.30.57:792][169]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.09-19.30.58:032][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.30.58:042][169]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2019.12.09-19.30.58:087][169]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.12.09-19.30.58:464][170]LogRenderer: Reallocating scene render targets to support 1324x884 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-19.33.55:805][ 63]Cmd: TRANSACTION UNDO
+[2019.12.09-19.33.55:805][ 63]LogEditorTransaction: Undo Create Mesh Socket
+[2019.12.09-19.33.55:831][ 63]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.33.55:890][ 63]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.33.55:904][ 63]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.34.13:194][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.34.34:089][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.34.39:751][521]LogSlate: Window 'Message' being destroyed
+[2019.12.09-19.34.39:767][521]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.39:831][521]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.39:842][521]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.39:898][521]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.39:912][521]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.39:968][521]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.39:978][521]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.40:029][521]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.47:834][885]LogSlate: Window 'Message' being destroyed
+[2019.12.09-19.34.47:844][885]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.47:901][885]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.47:910][885]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.47:971][885]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.47:982][885]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.48:040][885]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.48:050][885]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.48:102][885]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.34.57:236][225]LogSlate: Window 'Message' being destroyed
+[2019.12.09-19.34.57:246][225]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2019.12.09-19.34.57:307][225]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.12.09-19.35.02:375][525]Cmd: TRANSACTION UNDO
+[2019.12.09-19.35.02:375][525]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2019.12.09-19.35.02:385][525]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.35.03:889][607]Cmd: TRANSACTION UNDO
+[2019.12.09-19.35.03:889][607]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2019.12.09-19.35.03:893][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.35.13:379][828]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AAB733E7-4DA4-8F42-8BE9-79A927A1D710}
+[2019.12.09-19.35.26:717][622]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1_BluePrints/Player/BP_Weapon.BP_Weapon
+[2019.12.09-19.35.32:853][969]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.35.32:913][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/1_BluePrints/Player/BP_Weapon.BP_Weapon
+[2019.12.09-19.35.47:369][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.36.04:578][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.36.10:204][960]Cmd: TRANSACTION UNDO
+[2019.12.09-19.36.10:204][960]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.36.10:205][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.36.14:093][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.36.25:123][844]Cmd: TRANSACTION UNDO
+[2019.12.09-19.36.25:123][844]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.36.25:124][844]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.37.05:938][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.37.09:438][484]Cmd: TRANSACTION UNDO
+[2019.12.09-19.37.09:438][484]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.37.09:439][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.37.14:876][805]Cmd: TRANSACTION UNDO
+[2019.12.09-19.37.14:876][805]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.37.14:876][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.37.18:499][ 14]Cmd: TRANSACTION UNDO
+[2019.12.09-19.37.18:499][ 14]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.37.18:500][ 14]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.37.33:980][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.38.38:387][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.38.48:082][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.39.06:277][448]Cmd: TRANSACTION UNDO
+[2019.12.09-19.39.06:277][448]LogEditorTransaction: Undo Translate Socket
+[2019.12.09-19.39.06:277][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.12.09-19.39.08:706][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.39.24:741][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.39.34:263][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.39.44:829][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.39.55:357][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.40.16:079][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.40.16:246][623]LogSavePackage: Moving '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SK_MannequinEEB56A4847ECCF4B6F18F799E9F8AF07.tmp' to '../../../../../GitHub/Catavaneers-/Catavaneers/Content/2_Assets/Animations/Player_Cat/Character/Mesh/SK_Mannequin.uasset'
+[2019.12.09-19.40.47:237][ 64]LogUObjectHash: Compacting FUObjectHashTables data took  11.41ms
+[2019.12.09-19.40.47:237][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/0_Maps/Menus/0_Menu_Main' took 0.159
+[2019.12.09-19.40.47:242][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2_Assets/Animations/Player_Cat/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2019.12.09-19.40.47:242][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/2_Assets/Animations/Player_Cat/Character/Mesh/UE4_Mannequin_Skeleton]
+[2019.12.09-19.40.47:253][ 64]LogSavePackage: Moving '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/UE4_Mannequin_Skeleton_Auto1317501BB4E6F1D56374840B97EAE23B7.tmp' to '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/Autosaves/Game/2_Assets/Animations/Player_Cat/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2019.12.09-19.40.47:254][ 64]LogFileHelpers: Auto-saving content packages took 0.015
+[2019.12.09-19.46.39:337][261]Candidate modules for hot reload:
+[2019.12.09-19.46.39:337][261]  Catavaneer_2020
+[2019.12.09-19.46.39:337][261]Launching UnrealBuildTool... [E:/UE/UE_4.23/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Catavaneer_2020,2609 Win64 Development -TargetType=Editor -Project="E:/GitHub/Catavaneers-/Catavaneers/Catavaneers.uproject" "E:/GitHub/Catavaneers-/Catavaneers/Catavaneers.uproject"  -IgnoreJunk]
+[2019.12.09-19.46.39:344][261]Warning: Starting HotReload took  0.0s.
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: New page: Compilation - Dec 9, 2019, 9:46:55 AM
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (E:\GitHub\Catavaneers-).
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Parsing headers for Catavaneer_2020Editor
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   Running UnrealHeaderTool "E:\GitHub\Catavaneers-\Catavaneers\Catavaneers.uproject" "E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\Catavaneer_2020Editor\Development\Catavaneer_2020Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Reflection code generated for Catavaneer_2020Editor in 7.3659082 seconds
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Building 6 actions with 12 processes...
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [1/6] Catavaneer_2020.init.gen.cpp
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [2/6] player_movement.cpp
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [3/6] player_movement.gen.cpp
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [4/6] UE4Editor-Catavaneer_2020-2609.lib
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:      Creating library E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\UE4Editor-Catavaneer_2020-2609.lib and object E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\UE4Editor-Catavaneer_2020-2609.exp
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [5/6] UE4Editor-Catavaneer_2020-2609.dll
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:      Creating library E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\UE4Editor-Catavaneer_2020-2609.suppressed.lib and object E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\UE4Editor-Catavaneer_2020-2609.suppressed.exp
+[2019.12.09-19.46.55:305][213]CompilerResultsLog:   [6/6] Catavaneer_2020Editor.target
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Total time in Parallel executor: 6.98 seconds
+[2019.12.09-19.46.55:305][213]CompilerResultsLog: Total execution time: 15.83 seconds
+[2019.12.09-19.46.55:305][213]LogMainFrame: MainFrame: Module compiling took 15.984 seconds
+[2019.12.09-19.46.55:364][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.12.09-19.46.55:390][213]LogClass: Could not find existing class player_movement in package /Script/Catavaneer_2020 for HotReload, assuming new class
+[2019.12.09-19.46.55:406][213]LogHotReload: Re-instancing player_movement after hot-reload.
+[2019.12.09-19.46.55:878][213]LogContentBrowser: Native class hierarchy updated for 'Catavaneer_2020' in 0.0004 seconds. Added 9 classes and 2 folders.
+[2019.12.09-19.46.55:883][213]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.12.09-19.46.55:971][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.09-19.46.55:985][213]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2874 classes and 686 folders.
+[2019.12.09-19.46.55:991][213]Display: HotReload took 16.7s.
+[2019.12.09-19.46.59:420][404]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.46.59:436][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.46.59:436][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.46.59:436][404]PIE: New page: PIE session: 0_Menu_Main (Dec 9, 2019, 9:46:59 AM)
+[2019.12.09-19.46.59:437][404]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.09-19.46.59:438][404]LogPlayLevel: Creating play world package: /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.46.59:442][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2019.12.09-19.46.59:443][404]LogAIModule: Creating AISystem for world 0_Menu_Main
+[2019.12.09-19.46.59:443][404]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2019.12.09-19.46.59:443][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main to /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main (0.004657s)
+[2019.12.09-19.46.59:498][404]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.12.09-19.46.59:521][404]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.46.59:612][404]LogInit: FAudioDevice initialized.
+[2019.12.09-19.46.59:623][404]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.46.59:626][404]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main up for play (max tick rate 60) at 2019.12.09-14.46.59
+[2019.12.09-19.46.59:626][404]LogWorld: Bringing up level for play took: 0.001585
+[2019.12.09-19.46.59:626][404]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.09-19.46.59:663][404]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.12.09-19.46.59:665][404]PIE: Play in editor start time for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main -0.252
+[2019.12.09-19.46.59:665][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.02:272][544]LogNet: Browse: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.02:273][544]LogLoad: LoadMap: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.02:273][544]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.47.02:273][544]LogWorld: UWorld::CleanupWorld for 0_Menu_Main, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.47.02:349][544]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2019.12.09-19.47.02:395][544]LogAIModule: Creating AISystem for world Menu_PlayerSelect
+[2019.12.09-19.47.02:395][544]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.47.02:397][544]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect.Menu_PlayerSelect up for play (max tick rate 60) at 2019.12.09-14.47.02
+[2019.12.09-19.47.02:397][544]LogWorld: Bringing up level for play took: 0.000968
+[2019.12.09-19.47.02:397][544]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.09-19.47.02:400][544]LogStreaming: Warning: Failed to read file '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SaveGames/Profiles.sav' error.
+[2019.12.09-19.47.02:403][544]LogLoad: Took 0.130566 seconds to LoadMap(/Game/0_Maps/Menus/Menu_PlayerSelect)
+[2019.12.09-19.47.03:864][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.47.08:759][926]LogStreaming: Warning: Failed to read file '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SaveGames/ZZ.sav' error.
+[2019.12.09-19.47.08:759][926]LogBlueprintUserMessages: [Player_Select_Hud_C_0] Profile Created:ZZ
+[2019.12.09-19.47.11:283][ 77]LogBlueprintUserMessages: [Player_Select_Hud_C_0] Profile Loaded: ZZ
+[2019.12.09-19.47.21:503][691]LogStreaming: Warning: Failed to read file '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SaveGames/ZZxxxx.sav' error.
+[2019.12.09-19.47.21:503][691]LogBlueprintUserMessages: [Player_Select_Hud_C_0] Profile Created:ZZxxxx
+[2019.12.09-19.47.26:065][964]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.26:071][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.47.26:071][964]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect
+[2019.12.09-19.47.26:071][964]LogWorld: UWorld::CleanupWorld for Menu_PlayerSelect, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.47.26:079][964]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.47.26:079][964]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.26:125][964]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.47.26:132][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.09-19.47.26:166][966]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.09-19.47.28:598][109]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.47.28:614][109]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.28:614][109]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.47.28:614][109]PIE: New page: PIE session: 0_Menu_Main (Dec 9, 2019, 9:47:28 AM)
+[2019.12.09-19.47.28:614][109]LogPlayLevel: Creating play world package: /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.47.28:618][109]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003923s)
+[2019.12.09-19.47.28:619][109]LogAIModule: Creating AISystem for world 0_Menu_Main
+[2019.12.09-19.47.28:619][109]LogPlayLevel: PIE: World Init took: (0.000767s)
+[2019.12.09-19.47.28:619][109]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main to /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main (0.004796s)
+[2019.12.09-19.47.28:660][109]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2019.12.09-19.47.28:683][109]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.47.28:772][109]LogInit: FAudioDevice initialized.
+[2019.12.09-19.47.28:781][109]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.47.28:784][109]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main up for play (max tick rate 60) at 2019.12.09-14.47.28
+[2019.12.09-19.47.28:784][109]LogWorld: Bringing up level for play took: 0.001692
+[2019.12.09-19.47.28:784][109]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.09-19.47.28:787][109]PIE: Play in editor start time for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main 0.871
+[2019.12.09-19.47.28:787][109]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.30:907][236]LogNet: Browse: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.30:908][236]LogLoad: LoadMap: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.30:908][236]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.47.30:908][236]LogWorld: UWorld::CleanupWorld for 0_Menu_Main, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.47.30:946][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.09-19.47.30:950][236]LogAIModule: Creating AISystem for world Menu_PlayerSelect
+[2019.12.09-19.47.30:950][236]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.47.30:952][236]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect.Menu_PlayerSelect up for play (max tick rate 60) at 2019.12.09-14.47.30
+[2019.12.09-19.47.30:952][236]LogWorld: Bringing up level for play took: 0.000928
+[2019.12.09-19.47.30:952][236]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.09-19.47.30:954][236]LogLoad: Took 0.045929 seconds to LoadMap(/Game/0_Maps/Menus/Menu_PlayerSelect)
+[2019.12.09-19.47.31:913][294]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.47.36:471][568]LogStreaming: Warning: Failed to read file '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SaveGames/xx.sav' error.
+[2019.12.09-19.47.36:471][568]LogBlueprintUserMessages: [Player_Select_Hud_C_0] Profile Created:xx
+[2019.12.09-19.47.37:281][616]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.47.41:765][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.41:765][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.47.41:765][885]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect
+[2019.12.09-19.47.41:765][885]LogWorld: UWorld::CleanupWorld for Menu_PlayerSelect, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.47.41:774][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.47.41:774][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.41:820][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.47.41:824][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.09-19.47.41:871][888]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.09-19.47.47:486][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.47.47:586][230]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.47.47:600][230]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.47:600][230]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.47.47:600][230]PIE: New page: PIE session: 0_Menu_Main (Dec 9, 2019, 9:47:47 AM)
+[2019.12.09-19.47.47:600][230]LogPlayLevel: Creating play world package: /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.47.47:604][230]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003793s)
+[2019.12.09-19.47.47:604][230]LogAIModule: Creating AISystem for world 0_Menu_Main
+[2019.12.09-19.47.47:604][230]LogPlayLevel: PIE: World Init took: (0.000768s)
+[2019.12.09-19.47.47:604][230]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main to /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main (0.004656s)
+[2019.12.09-19.47.47:645][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2019.12.09-19.47.47:666][230]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.47.47:750][230]LogInit: FAudioDevice initialized.
+[2019.12.09-19.47.47:755][230]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.47.47:758][230]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main up for play (max tick rate 60) at 2019.12.09-14.47.47
+[2019.12.09-19.47.47:758][230]LogWorld: Bringing up level for play took: 0.001629
+[2019.12.09-19.47.47:758][230]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.09-19.47.47:760][230]PIE: Play in editor start time for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main -0.156
+[2019.12.09-19.47.47:761][230]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.47.50:065][368]LogScript: Warning: Accessed None trying to read property SoundUIRef
+	BP_MenuOption_C /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main:PersistentLevel.MenuOption2
+	Function /Game/1_BluePrints/Menu/Main/BP_MenuOption.BP_MenuOption_C:ExecuteUbergraph_BP_MenuOption:0340
+[2019.12.09-19.47.50:071][368]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SoundUIRef". Blueprint:  BP_MenuOption Function:  Execute Ubergraph BP Menu Option Graph:  EventGraph Node:  Save
+[2019.12.09-19.47.52:699][526]LogScript: Warning: Accessed None trying to read property SoundUIRef
+	BP_MenuOption_C /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main.0_Menu_Main:PersistentLevel.MenuOption4
+	Function /Game/1_BluePrints/Menu/Main/BP_MenuOption.BP_MenuOption_C:ExecuteUbergraph_BP_MenuOption:0340
+[2019.12.09-19.47.52:699][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SoundUIRef". Blueprint:  BP_MenuOption Function:  Execute Ubergraph BP Menu Option Graph:  EventGraph Node:  Save
+[2019.12.09-19.47.54:916][659]LogNet: Browse: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.54:916][659]LogLoad: LoadMap: /Game/0_Maps/Menus/Menu_PlayerSelect
+[2019.12.09-19.47.54:916][659]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_0_Menu_Main
+[2019.12.09-19.47.54:917][659]LogWorld: UWorld::CleanupWorld for 0_Menu_Main, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.47.54:965][659]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2019.12.09-19.47.54:971][659]LogAIModule: Creating AISystem for world Menu_PlayerSelect
+[2019.12.09-19.47.54:972][659]LogLoad: Game class is 'Menu_GameMode_C'
+[2019.12.09-19.47.54:974][659]LogWorld: Bringing World /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect.Menu_PlayerSelect up for play (max tick rate 60) at 2019.12.09-14.47.54
+[2019.12.09-19.47.54:974][659]LogWorld: Bringing up level for play took: 0.001282
+[2019.12.09-19.47.54:974][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.12.09-19.47.54:976][659]LogLoad: Took 0.059752 seconds to LoadMap(/Game/0_Maps/Menus/Menu_PlayerSelect)
+[2019.12.09-19.47.56:374][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-19.48.01:115][ 28]LogStreaming: Warning: Failed to read file '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/SaveGames/not.sav' error.
+[2019.12.09-19.48.01:115][ 28]LogBlueprintUserMessages: [Player_Select_Hud_C_0] Profile Created:not
+[2019.12.09-19.48.04:357][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.48.05:758][306]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.48.05:759][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.48.05:759][306]LogWorld: BeginTearingDown for /Game/0_Maps/Menus/UEDPIE_0_Menu_PlayerSelect
+[2019.12.09-19.48.05:759][306]LogWorld: UWorld::CleanupWorld for Menu_PlayerSelect, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.48.05:765][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.48.05:765][306]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel' has LevelScriptBlueprint '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main' with GeneratedClass '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main_C' with ClassGeneratedBy '/Game/0_Maps/Menus/0_Menu_Main.0_Menu_Main:PersistentLevel.0_Menu_Main'
+[2019.12.09-19.48.05:810][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.48.05:814][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2019.12.09-19.48.05:951][307]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.09-19.48.09:786][526]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.48.09:794][526]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.48.18:630][ 43]LogAssetEditorManager: Opening Asset editor for World /Game/1_BluePrints/Player/NewWorld.NewWorld
+[2019.12.09-19.48.18:670][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.12.09-19.48.19:969][ 43]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-19.48.20:028][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.09-19.48.20:035][ 43]LogSavePackage: Moving '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/NewWorld33AD13C74C24F7207A27C4808C7B0078.tmp' to '../../../../../GitHub/Catavaneers-/Catavaneers/Content/1_BluePrints/Player/NewWorld.umap'
+[2019.12.09-19.48.20:036][ 43]LogFileHelpers: Saving map 'NewWorld' took 0.053
+[2019.12.09-19.48.20:041][ 43]LogSavePackage: Moving '../../../../../GitHub/Catavaneers-/Catavaneers/Saved/UE4_Mannequin_SkeletonA740B6CB473300E7BE8459B29E8357FC.tmp' to '../../../../../GitHub/Catavaneers-/Catavaneers/Content/2_Assets/Animations/Player_Cat/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2019.12.09-19.48.20:044][ 43]Cmd: MAP LOAD FILE="../../../../../GitHub/Catavaneers-/Catavaneers/Content/1_BluePrints/Player/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.48.20:044][ 43]LightingResults: New page: Lighting Build
+[2019.12.09-19.48.20:045][ 43]LoadErrors: New page: Loading map: NewWorld.umap
+[2019.12.09-19.48.20:046][ 43]LogWorld: UWorld::CleanupWorld for 0_Menu_Main, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.48.20:046][ 43]MapCheck: New page: Map Check
+[2019.12.09-19.48.20:046][ 43]LightingResults: New page: Lighting Build
+[2019.12.09-19.48.20:089][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.12.09-19.48.20:091][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.48.20:091][ 43]LogAIModule: Creating AISystem for world NewWorld
+[2019.12.09-19.48.20:135][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.12.09-19.48.20:154][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.48.20:154][ 43]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2019.12.09-19.48.20:156][ 43]LogFileHelpers: Loading map 'NewWorld' took 0.112
+[2019.12.09-19.48.26:758][370]LogSlate: Window 'New Level' being destroyed
+[2019.12.09-19.48.26:767][370]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-19.48.26:795][370]LightingResults: New page: Lighting Build
+[2019.12.09-19.48.26:796][370]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.12.09-19.48.26:796][370]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.48.26:800][370]MapCheck: New page: Map Check
+[2019.12.09-19.48.26:800][370]LightingResults: New page: Lighting Build
+[2019.12.09-19.48.26:843][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.09-19.48.26:863][370]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.09-19.48.26:872][370]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-19.48.26:917][370]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.09-19.48.26:920][370]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-19.48.26:920][370]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.12.09-19.48.26:921][370]LogFileHelpers: Loading map 'Template_Default' took 0.154
+[2019.12.09-19.48.29:190][491]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.48.29:205][491]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.09-19.48.29:205][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.48.29:205][491]PIE: New page: PIE session: Untitled_1 (Dec 9, 2019, 9:48:29 AM)
+[2019.12.09-19.48.29:205][491]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.09-19.48.29:207][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001906s)
+[2019.12.09-19.48.29:208][491]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.09-19.48.29:208][491]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2019.12.09-19.48.29:208][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002859s)
+[2019.12.09-19.48.29:281][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2019.12.09-19.48.29:302][491]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.48.29:389][491]LogInit: FAudioDevice initialized.
+[2019.12.09-19.48.29:431][491]LogLoad: Game class is 'Spawn_Player_Splite_Screen_C'
+[2019.12.09-19.48.29:432][491]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.12.09-14.48.29
+[2019.12.09-19.48.29:433][491]LogWorld: Bringing up level for play took: 0.000563
+[2019.12.09-19.48.29:433][491]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.09-19.48.29:434][491]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.09-19.48.29:435][491]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.481
+[2019.12.09-19.48.29:435][491]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.09-19.48.31:049][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.09-19.48.31:049][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.48.31:049][588]LogWorld: BeginTearingDown for /Temp/UEDPIE_0_Untitled_1
+[2019.12.09-19.48.31:049][588]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.48.31:058][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.48.31:058][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.09-19.48.31:102][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.48.31:122][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.12.09-19.48.31:165][590]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.09-19.48.32:317][659]Cmd: SELECT NONE
+[2019.12.09-19.48.38:283][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.48.39:455][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-19.48.39:538][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.48.39:552][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.12.09-19.48.39:552][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.48.39:552][ 76]PIE: New page: PIE session: Untitled_1 (Dec 9, 2019, 9:48:39 AM)
+[2019.12.09-19.48.39:553][ 76]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.12.09-19.48.39:555][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002171s)
+[2019.12.09-19.48.39:556][ 76]LogAIModule: Creating AISystem for world Untitled_1
+[2019.12.09-19.48.39:556][ 76]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2019.12.09-19.48.39:556][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.003191s)
+[2019.12.09-19.48.39:594][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.09-19.48.39:615][ 76]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.09-19.48.39:703][ 76]LogInit: FAudioDevice initialized.
+[2019.12.09-19.48.39:709][ 76]LogLoad: Game class is 'Spawn_Player_Splite_Screen_C'
+[2019.12.09-19.48.39:716][ 76]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2019.12.09-14.48.39
+[2019.12.09-19.48.39:716][ 76]LogWorld: Bringing up level for play took: 0.006705
+[2019.12.09-19.48.39:716][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.09-19.48.39:718][ 76]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.12.09-19.48.39:718][ 76]LogSpawn: Warning: SpawnActor failed because no class was specified

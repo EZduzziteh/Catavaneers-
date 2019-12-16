@@ -1,0 +1,5 @@
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Development\Catavaneer_2020\Definitions.Catavaneer_2020.h
+e:\github\catavaneers-\catavaneers\source\catavaneer_2020\Player_interaction.h
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Inc\Catavaneer_2020\Player_interaction.generated.h
+e:\github\catavaneers-\catavaneers\source\catavaneer_2020\Player_inventory.h
+E:\GitHub\Catavaneers-\Catavaneers\Intermediate\Build\Win64\UE4Editor\Inc\Catavaneer_2020\Player_inventory.generated.h
