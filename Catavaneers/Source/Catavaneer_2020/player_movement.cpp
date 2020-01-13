@@ -65,8 +65,8 @@ void Aplayer_movement::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 	//PlayerInputComponent->BindAxis("MoveForwards", this, &Aplayer_movement::MoveForward);
 	//PlayerInputComponent->BindAxis("MoveSideways", this, &Aplayer_movement::MoveSideways);
-	//PlayerInputComponent->BindAxis("LookUp", this, &Aplayer_movement::AddControllerPitchInput);
-	//PlayerInputComponent->BindAxis("LookSideways", this, &Aplayer_movement::AddControllerYawInput);
+	PlayerInputComponent->BindAxis("LookUp", this, &Aplayer_movement::AddControllerPitchInput);
+	PlayerInputComponent->BindAxis("LookSideways", this, &Aplayer_movement::AddControllerYawInput);
 	//PlayerInputComponent->BindAction("Crouch", IE_Pressed, this, &Aplayer_movement::StartCrouch);
 	//PlayerInputComponent->BindAction("Crouch", IE_Released, this, &Aplayer_movement::EndCrouch);
 
